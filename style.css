@@ -1,5 +1,6 @@
 .header {
-    background-color: red;
+    background-color: #040706;
+    color: #ff8000
 }
 .content {
     background-color: blue;
@@ -13,5 +14,9 @@
     margin-right: auto;
 }
 #header-text {
-    font-size: 80px;
+    font-size: 75px;
+    font-family: Garamond;
+    background: linear-gradient(to right, #fe9204, #f8d150);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
 }
